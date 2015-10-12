@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/android/workspace/MyApplication/app/build/intermediates/exploded-aar/MyApplication/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e85405922c4f9bf7cf9d1308433940f9491be93b">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-c937f8219df34124c8aa75704611980bb713e150.jar" />
+    </item>
+
+</items>

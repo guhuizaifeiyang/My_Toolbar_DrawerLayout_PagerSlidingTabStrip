@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsTextAllCaps" format="boolean" />
+    </declare-styleable>
+
+    <!--
+    pstsIndicatorColor滑动指示器颜色
+    pstsUnderlineColor视图的底部的全宽线的颜色
+    pstsDividerColor选项卡之间的分隔线的颜色
+    pstsIndicatorHeight滑动指标高度
+    pstsUnderlineHeight视图的底部高度的全宽线
+    pstsDividerPadding顶部和分频器的底部填充
+    pstsTabPaddingLeftRight左，每个选项卡的右填充
+    pstsScrollOffset所选选项卡的滚动偏移量
+    pstsTabBackground每个标签的背景可拉伸，应该是一个StateListDrawable
+    pstsShouldExpand如果设置为true，每个选项卡被赋予了相同的权重，默认为false
+    pstsTextAllCaps如果为true，所有的选项卡标题将是大写，默认为true-->
+</resources>
